@@ -1,0 +1,21 @@
+/**
+    O(nm)
+    77~125 ms 
+    44.5~44.8 MB
+    
+ * @param {number[][]} grid
+ * @return {boolean}
+ */
+ var checkXMatrix = function(grid) {
+    let n = grid.length;
+    
+    for(let i=0; i<n; i++)
+        for(let j=0; j<n; j++)
+            if(i==j || i==n-1-j){
+                if(grid[i][j]==0)
+                    return false;
+            }
+            else if(grid[i][j]!=0)
+                return false;
+    return true;
+};
