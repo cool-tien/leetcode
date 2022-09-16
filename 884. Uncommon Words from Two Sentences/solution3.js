@@ -9,7 +9,7 @@
     https://leetcode.com/submissions/detail/801253868/
         Runtime: 65 ms, faster than 94.33% of JavaScript online submissions for Uncommon Words from Two Sentences.
         Memory Usage: 42.5 MB, less than 56.38% of JavaScript online submissions for Uncommon Words from Two Sentences.
-
+    https://leetcode.com/submissions/detail/801256789/
         Runtime: 97 ms, faster than 44.33% of JavaScript online submissions for Uncommon Words from Two Sentences.
         Memory Usage: 42.4 MB, less than 56.38% of JavaScript online submissions for Uncommon Words from Two Sentences.
 
