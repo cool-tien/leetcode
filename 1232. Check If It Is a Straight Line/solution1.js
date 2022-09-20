@@ -1,4 +1,6 @@
 /**
+    refer slope solution: https://leetcode.com/problems/check-if-it-is-a-straight-line/discuss/1166164/JS-Easy-to-understand-for-beginners-as-well#/
+
     O(n)
     93~104 ms    (38.33%~55.75%)
     43.6~44.0 MB (64.11%~86.76%)
