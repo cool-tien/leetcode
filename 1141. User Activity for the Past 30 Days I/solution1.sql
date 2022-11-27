@@ -1,8 +1,15 @@
 /*
-    Runtime: 1494~1715 ms, faster than 79.06%~95.73%
+    1642 ~ 1875 ms  (78.42% ~ 97.67%)
 
-    https://leetcode.com/submissions/detail/755747578/
-    Runtime: 1494 ms, faster than 95.73% of MS SQL Server online submissions for User Activity for the Past 30 Days I.
+    https://leetcode.com/submissions/detail/850479342/
+        Runtime: 1708 ms, faster than 91.98% of MS SQL Server online submissions for User Activity for the Past 30 Days I.
+        Memory Usage: 0B, less than 100.00% of MS SQL Server online submissions for User Activity for the Past 30 Days I.
+    https://leetcode.com/submissions/detail/850479607/
+        Runtime: 1875 ms, faster than 78.42% of MS SQL Server online submissions for User Activity for the Past 30 Days I.
+        Memory Usage: 0B, less than 100.00% of MS SQL Server online submissions for User Activity for the Past 30 Days I.
+    https://leetcode.com/submissions/detail/850479686/
+        Runtime: 1642 ms, faster than 97.67% of MS SQL Server online submissions for User Activity for the Past 30 Days I.
+        Memory Usage: 0B, less than 100.00% of MS SQL Server online submissions for User Activity for the Past 30 Days I.
 */
 /* Write your T-SQL query statement below */
 
