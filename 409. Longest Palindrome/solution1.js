@@ -1,6 +1,8 @@
 /**
     Time Complexity: O(2n)
+        52 ~ 68 ms      (92.38% ~ 99.93%)
     Space Complexity: O(n)
+        42.5 ~ 42.7 MB  (90.77% ~ 94.90%)
 
     https://leetcode.com/problems/longest-palindrome/submissions/867230148/
         Runtime 53 ms, Beats 99.93%; Memory 42.5 MB, Beats 94.90%
