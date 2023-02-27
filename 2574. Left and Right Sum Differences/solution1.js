@@ -1,9 +1,9 @@
 /**
     Time Complexity: O(2n)
         66 ~ 79 ms      (66.67% ~ 100%)
-    Space Complexity: 
+    Space Complexity: O(n)
         45.3 ~ 45.5 MB  (33.33%)
-    
+
     https://leetcode.com/problems/left-and-right-sum-differences/submissions/905623250/
         Runtime 79 ms, Beats 66.67%; Memory 45.5 MB, Beats 33.33%
     https://leetcode.com/problems/left-and-right-sum-differences/submissions/905624327/
